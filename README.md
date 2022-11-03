@@ -1,7 +1,7 @@
 # PCoMS seminar series (PCoMSセミナーシリーズ)
 
 # 1. 基礎編
-## 1.1 Diffusion equation and finite difference method (拡散方程式と有限差分法）
+## Diffusion equation and finite difference method (拡散方程式と有限差分法）
 ### (A) 拡散方程式と有限差分法.pdf
 Brief note of diffusion equation, finite difference method and Python programming (in Japanese)
 (拡散方程式の定式, 有限差分法による離散化, Pythonプログラミングに関する概説）
