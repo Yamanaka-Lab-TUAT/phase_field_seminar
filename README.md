@@ -1,1 +1,1 @@
-# phase_field_seminar
+# PCoMS seminar series
