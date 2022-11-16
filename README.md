@@ -1,6 +1,6 @@
 # PCoMS seminar series (PCoMSセミナーシリーズ)
 
-# 1. 基礎編
+# 0. 入門編
 ## Diffusion equation and finite difference method (拡散方程式と有限差分法）
 ### (A) 拡散方程式と有限差分法.pdf
 Brief note of diffusion equation, finite difference method and Python programming (in Japanese)
@@ -13,6 +13,9 @@ Python code for finite differrence solver of two-dimensional diffusion equation 
 ### (C) Diffusion_2d_wo_for.ipynb 
 Python code for finite differrence solver of two-dimensional diffusion equation without using for-loop
 (2次元拡散方程式の有限差分法ソルバーのPythonコード (for文による繰り返し処理なし版))
+
+# 1. 基礎編
+準備中
 
 # 2. 応用編
 準備中
