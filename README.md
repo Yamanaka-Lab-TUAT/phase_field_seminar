@@ -1,4 +1,5 @@
-# PCoMS seminar series (PCoMSセミナーシリーズ)
+# PCoMS seminar series 2022 (PCoMSセミナーシリーズ2022)
+## @ Tohoku University (東北大学にて開催)
 
 # 0. 入門編
 ## Diffusion equation and finite difference method (拡散方程式と有限差分法）
